@@ -1,0 +1,6 @@
+{
+  "discourse_api_key": "YOUR_API_KEY",
+  "discourse_api_username": "YOUR_USERNAME",
+  "discourse_url": "https://your.discourse.site",
+  "category_id": 123
+}
